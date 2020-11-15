@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Antonio Ortiz"
-  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/Screen Shot 2020-11-13 at 10.39.19 AM.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "New York, NY"
   email            :
